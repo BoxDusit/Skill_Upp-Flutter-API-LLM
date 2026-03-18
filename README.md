@@ -1,4 +1,4 @@
-# flutter_application_6
+# Skill_Upp-Flutter-API-LLM
 
 A new Flutter project.
 
